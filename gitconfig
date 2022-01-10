@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mariela.belaunde@gmail.com
+	name = Mariela Belaunde
